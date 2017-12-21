@@ -3,4 +3,5 @@
 void main()
 {
 int a,b,c;
+e+b;
 printf("enter the two numbers which has to be swap");
