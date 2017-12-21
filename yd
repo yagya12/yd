@@ -3,5 +3,14 @@
 void main()
 {
 int a,b,c;
+
+printf("enter two numbers which has too be add");
+scan("%d%d",&a,&b);
+c=a+b;
+printf("sum is %d",c);
+}
+//he//0k
+
 a+b;
 printf("enter the two numbers which has to be swap");
+
