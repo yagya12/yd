@@ -8,3 +8,4 @@ scan("%d%d",&a,&b);
 c=a+b;
 printf("sum is %d",c);
 }
+//he//0
